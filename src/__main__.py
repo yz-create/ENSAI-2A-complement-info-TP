@@ -9,3 +9,5 @@ pk1 = Pokemon(name="Pika", stat_current=stats_pk1, type_pk="Attacker")
 
 # Print the pokemon (call __str__() method)
 print(pk1)
+
+#yoooo
